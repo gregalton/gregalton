@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gregalton
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on iOT and ComputerVision
+- 💞️ I’m looking to collaborate on iOT and Computer Vision
 - 📫 How to reach me gregaltonmail@gmail.com
 
 <!---
